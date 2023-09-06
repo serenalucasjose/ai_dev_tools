@@ -1,0 +1,31 @@
+ChatGPT
+
+Custom instructions
+
+HTML, Javascript, CSS
+
+Short, concise, code examples, full implementation, ask any clarification questions you might need
+
+Prompt:
+
+Cree una página de destino para un nuevo sitio de comercio electrónico que venda accesorios de moda.
+Debe tener un diseño limpio y moderno, centrándose en mostrar los productos e impulsar las conversiones.
+Incluya un control deslizante simple que muestre imágenes de alta calidad de los accesorios.
+El control deslizante debe tener transiciones suaves y ser visualmente atractivo.
+La página de destino también debe incluir descripciones convincentes de los productos, llamados a la acción claros y testimonios de clientes para generar confianza y credibilidad.
+Para los textos de prueba utilizar 'lorem ipsum' y para las imagenes del slider 'lorem picsum'
+
+Cursor
+
+1. Based on the structure of this project, generate a simple package.json file, and use some simple http server that displays the index.html file
+2. The css file for this project is not correctly imported, check the current file and see if you can spot the error
+3. This js file is incorrect, find the right name and path
+
+Phind (GPT-4)
+
+Task: Based on the following description generate full implementation of: model file, migration file and controller file
+
+Description:  The product entity that has id, name, category (may be a relationship), stock and brand.
+Ask any clarification questions you might need.
+
+Extra: Laravel, PHP
